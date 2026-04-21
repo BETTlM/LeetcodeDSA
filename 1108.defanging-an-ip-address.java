@@ -7,7 +7,8 @@
 // @lc code=start
 class Solution {
     public String defangIPaddr(String address) {
-        
+            return address.replace(".", "[.]");
+ 
     }
 }
 // @lc code=end
