@@ -12,5 +12,6 @@ class Solution {
         return a[0]*10+a[3]+a[1]*10+a[2];
     }
 }
+
 // @lc code=end
 
